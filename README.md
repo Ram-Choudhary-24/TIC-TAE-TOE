@@ -11,7 +11,7 @@ Simple console-based interface
 Two-player game mode
 Optional AI opponent (not implemented in this version)
 Installation
-Clone the repository: git clone https://github.com/your-username/tic-tac-toe.git
+Clone the repository: git clone https://github.com/Ram-Choudhary/TIC-TAE-TOE.git
 Compile the game: g++ -o tic-tac-toe main.cpp
 Run the game: ./tic-tac-toe
 Usage
